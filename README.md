@@ -1,4 +1,4 @@
-# Todo List Web App
+# Todo List App
 
 This is a simple web application for managing your tasks - a Todo list! Built using HTML, CSS, and JavaScript, this app provides a user-friendly interface to add, remove, and mark tasks as complete.
 
